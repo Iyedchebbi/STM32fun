@@ -16,3 +16,28 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\chebb\D
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-08-24 12:53:00.476
 !MESSAGE Indexed 'blackPill_Blink' (19 sources, 81 headers) in 6.32 sec: 4,302 declarations; 18,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)
+!SESSION 2025-08-24 17:23:07.019 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Framework arguments:  C:\Users\chebb\Desktop\Src\STM32fun\blackPill_Blink\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\chebb\Desktop\Src\STM32fun\blackPill_Blink\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-24 17:23:36.386
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-24 17:23:36.388
+!MESSAGE Log4j2 initialized with config file C:\Users\chebb\Desktop\Src\STM32fun\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-24 17:23:53.541
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-24 17:23:57.928
+!MESSAGE Indexed 'blackPill_Blink' (20 sources, 117 headers) in 3.79 sec: 11,048 declarations; 42,994 references; 1 unresolved inclusions; 93 syntax errors; 241 unresolved names (0.44%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-24 17:25:50.508
+!MESSAGE Indexed 'blackPill_blink1' (3 sources, 53 headers) in 0.86 sec: 1,950 declarations; 2,836 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-24 17:28:50.391
+!MESSAGE Indexed 'blackPill_blink1' (19 sources, 81 headers) in 4.4 sec: 4,302 declarations; 18,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)
