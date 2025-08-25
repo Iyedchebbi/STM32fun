@@ -100,16 +100,16 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  uint32_t now = 0, last_blink=0,last_tick=0, loop_cnt =0;
+  uint32_t now = 0,  last_blink=0, last_tick=0, loop_cnt =0;
   while (1)
   {
       now = HAL_GetTick();
-      if ( now - last_blink >=500){
+      if ( now - last_blink >= 500){
           printf("Toggling GPIO\n");
           HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13);
           last_blink = now;
       }
-      if ( now -last_tick >=1000){
+      if ( now - last_tick >=1000){
           printf("Tick %lu (loop_cnt = %lu)\n",now/1000,loop_cnt);
           loop_cnt=0;
           last_tick=now;

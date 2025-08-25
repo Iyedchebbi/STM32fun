@@ -85,3 +85,9 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\chebb\Desktop
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-08-25 13:03:50.696
 !MESSAGE Indexed 'blackPill_blink2' (20 sources, 117 headers) in 6.72 sec: 11,052 declarations; 42,952 references; 1 unresolved inclusions; 92 syntax errors; 241 unresolved names (0.44%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-25 13:42:55.311
+!MESSAGE Indexed 'blackPill_blink2' (20 sources, 117 headers) in 1.7 sec: 11,053 declarations; 42,955 references; 1 unresolved inclusions; 92 syntax errors; 241 unresolved names (0.44%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-25 13:57:48.606
+!MESSAGE Indexed 'blackPill_blink3' (19 sources, 81 headers) in 3.62 sec: 4,302 declarations; 18,160 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0089%)

@@ -471,7 +471,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  uint32_t now = 0, last_blink=0,last_tick=0, loop_cnt =0;
+  uint32_t now = 0,  last_blink=0, last_tick=0, loop_cnt =0;
  80005b0:	2300      	movs	r3, #0
  80005b2:	603b      	str	r3, [r7, #0]
  80005b4:	2300      	movs	r3, #0
@@ -485,7 +485,7 @@ int main(void)
       now = HAL_GetTick();
  80005c0:	f000 fb02 	bl	8000bc8 <HAL_GetTick>
  80005c4:	6038      	str	r0, [r7, #0]
-      if ( now - last_blink >=500){
+      if ( now - last_blink >= 500){
  80005c6:	683a      	ldr	r2, [r7, #0]
  80005c8:	68fb      	ldr	r3, [r7, #12]
  80005ca:	1ad3      	subs	r3, r2, r3
@@ -502,7 +502,7 @@ int main(void)
  80005e2:	683b      	ldr	r3, [r7, #0]
  80005e4:	60fb      	str	r3, [r7, #12]
       }
-      if ( now -last_tick >=1000){
+      if ( now - last_tick >=1000){
  80005e6:	683a      	ldr	r2, [r7, #0]
  80005e8:	68bb      	ldr	r3, [r7, #8]
  80005ea:	1ad3      	subs	r3, r2, r3
