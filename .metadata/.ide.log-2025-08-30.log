@@ -1,0 +1,39 @@
+2025-08-31 00:33:17,005 [INFO] WebApp:190 - Connection lost
+2025-08-31 00:33:55,429 [INFO] WebApp:187 - Connection restablished
+2025-08-31 01:49:25,798 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 807397168 Bytes (1073741824)
+2025-08-31 01:49:27,709 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 835168512 Bytes (1073741824)
+2025-08-31 01:49:31,325 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 960979656 Bytes (1073741824)
+2025-08-31 01:49:31,894 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8
+2025-08-31 01:49:31,895 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2025-08-31 01:49:31,895 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-08-31 01:49:31,895 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-08-31 01:49:31,895 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2025-08-31 01:49:31,895 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-08-31 01:49:31,909 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2025-08-31 01:49:32,479 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\license.tmp_save
+2025-08-31 01:49:32,781 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\license.tmp
+2025-08-31 01:49:32,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\gpio.tmp_save
+2025-08-31 01:49:33,034 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\gpio.tmp
+2025-08-31 01:49:33,587 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\stm32f4xx_it.c_save
+2025-08-31 01:49:34,041 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\stm32f4xx_it.c
+2025-08-31 01:49:34,096 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\stm32f4xx_it.h_save
+2025-08-31 01:49:34,247 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\stm32f4xx_it.h
+2025-08-31 01:49:34,619 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\stm32f4xx_hal_msp.c_save
+2025-08-31 01:49:34,856 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\stm32f4xx_hal_msp.c
+2025-08-31 01:49:34,862 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\system.tmp_save
+2025-08-31 01:49:34,940 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\MXTmpFiles\system.tmp
+2025-08-31 01:49:34,990 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-08-31 01:49:35,130 [INFO] CodeEngine:335 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\stm32f4xx_hal_conf.h
+2025-08-31 01:49:35,181 [INFO] ApiDbMcu:508 - Load IP Config File for TIM4
+2025-08-31 01:49:35,185 [WARN] IPConfigManager:3618 - IP not found : TIM
+2025-08-31 01:49:35,201 [WARN] CodeGenerator:4152 - IP not found : null
+2025-08-31 01:49:35,252 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\main.h_save
+2025-08-31 01:49:35,389 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Inc\main.h
+2025-08-31 01:49:35,514 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\main.c_save
+2025-08-31 01:49:35,742 [INFO] CodeEngine:279 - Generated code: C:\Users\chebb\Desktop\Src\STM32fun\stm32World_pwm1\Core\Src\main.c
+2025-08-31 01:49:42,996 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 6376mS.
+2025-08-31 01:49:43,012 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-08-31 01:49:43,228 [INFO] ConfigFileManager:1579 - The Die is : DIE413
+2025-08-31 01:49:48,827 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 5831mS.
+2025-08-31 01:49:48,828 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
+2025-08-31 01:49:48,832 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.

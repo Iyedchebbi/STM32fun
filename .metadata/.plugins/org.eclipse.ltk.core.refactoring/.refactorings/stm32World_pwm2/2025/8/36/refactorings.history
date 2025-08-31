@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;stm32World_pwm2/stm32World_pwm1.ioc&apos; to &apos;stm32World_pwm2.ioc&apos;" description="Rename resource &apos;stm32World_pwm1.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="stm32World_pwm1.ioc" name="stm32World_pwm2.ioc" stamp="1756639530356" updateReferences="true"/>
+</session>

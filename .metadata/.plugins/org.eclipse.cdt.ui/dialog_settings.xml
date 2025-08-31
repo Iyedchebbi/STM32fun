@@ -13,5 +13,14 @@
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="946"/>
+		<item key="size.y" value="346"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex.detail" value="0"/>
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration.internal">
+		<item key="size.width" value="1220"/>
+		<item key="size.height" value="381"/>
 	</section>
 </section>

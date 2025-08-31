@@ -51,7 +51,7 @@ void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 static void MX_USART1_UART_Init(void);
 /* USER CODE BEGIN PFP */
-uint8_t button_state =0;
+volatile uint8_t button_state =0;
 uint16_t blink_delays[] = {
         500,
         250,
